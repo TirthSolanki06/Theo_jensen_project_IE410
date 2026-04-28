@@ -1,6 +1,6 @@
 # Jansen 12-Link Gait Trainer: Kinematic Model
 
-This note explains the MATLAB file `Jansen Mechanism.m`.
+This note explains the MATLAB file `Jansen_Mechanism.m`.
 It follows the mechanism topology shown in the supplied papers:
 
 - Shin, Deshpande, and Sulzer, "Design of a Single Degree-of-Freedom, Adaptable Electromechanical Gait Trainer for People With Neurological Injury", JMR 2018.
